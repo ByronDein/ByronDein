@@ -65,7 +65,7 @@ I'm Byron Gonzalez, a Computer Programming Analyst from Duoc UC with hands-on ex
 ## 📈 GitHub Stats
 
 ![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byrondein&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=byrondein&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byrondein&theme=material-palenight)
 
 ---
 
